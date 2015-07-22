@@ -219,11 +219,12 @@ $menu->special ="Special";
             <li><a href="#50cent">Manhattan Place Shoots "Baby By Me" with 50 Cent</a></li>
         </ul>
 
-        <!-- Begin Article -->  
-           <div class="article">
+        <!-- Begin Article --> 
+         <div class="article">
+        
          <h1><a name="MSG" class="anchor">MSG - Playoff Interview with the New York Rangers</a></h1>
             <p class="date">4/10/15</p><hr/>
-            <img class="float_right" src="images/recent-work/Rangers.png" alt="The 2014 US Open: 'Serving the Court'"  />
+            <img class="float_right" src="images/recent-work/Rangers.jpg" alt="The 2014 US Open: 'Serving the Court'"  />
             <p>It's that time of the year again, Playoff season is upon us. MPE was called upon again by the MSG team to conduct interviews with the New York Rangers, promotional content (?)  to air during their playoff run<p>
             
             <p>Sporting the early stages of what would surely become grizzly playoff beards, The New York Rangers participated in interviews produced by Manhattan Place Entertainment. We were given the opportunity to work with Henrik Lundqvist, Martin St. Louis, and many others in order to provide promotional content which 
@@ -235,12 +236,14 @@ will air during their playoff run.<p>
         
             <h1><a name="Nick Sports" class="anchor">Nick Sports Super Bowl XLIX</a></h1>
             <p class="date">1/25/15 - 1/28/15 </p><hr/>
-            <img class="float_right" src="images/recent-work/pic boy 2.png" alt="pic boy'"  />
+            <img class="float_right" src="images/recent-work/pic_boy_2.jpg" alt="pic boy'"  />
             <p> Filmed well known tv personality, Pick Boy (Nickelodeon only?), as he filmed various events in Phoenix, Arizona during the week leading up to the big game. Filmed b-roll, interstitials, bumpers, etc for the children's network. Nickelodeon looking to make way into the sports world. Filmed in the Convention Center where the Super Bowl Central, was held. Filmed at the stadium where the Super Bowl would eventually take place?<p>
             
             <p>Manhattan Place Entertainment provided an inside look to Super Bowl XLIX's historic face off between the New England Patriots and the Seattle Seahawks courtesy of Nickelodeon Studios. In the week leading up to the big game, MPE followed Nickelodeon sports personality Pick Boy as he ventured around the Phoenix area. MPE was also granted exclusive access into the University of Phoenix Stadium and Media Day where Pick Boy was covered interviewing Super Bowl XLVIII MVP Richard Sherman and New England Patriots duo Tom Brady and Rob Gronkowski.<p>
 
-
+        
+           <div class="article">
+         
         <div class="article">
             <h1><a name="miniCamp" class="anchor">Are You Ready For Some Football?</a></h1>
             <hr/>
